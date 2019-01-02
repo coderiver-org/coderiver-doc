@@ -1,6 +1,6 @@
 # CodeRiver Doc
 
-![logo](/Users/solo/cr/doc/logo.png)
+![logo](./logo.png)
 
 CodeRiver 河码：致力于打造全栈全平台精品开源项目。
 
@@ -22,7 +22,7 @@ CodeRiver 河码：致力于打造全栈全平台精品开源项目。
 
 同时也会在 CodeRiver 官方公众平台推送，欢迎大家关注。
 
-![qrcode](/Users/solo/cr/doc/qrcode.jpg)
+![qrcode](./qrcode.jpg)
 
 项目的动态也将会在微信群里及时公布，关于项目的想法和建议也可以在微信群里讨论，加入方式：
 
